@@ -1,4 +1,4 @@
-# |Chat application using websockets|
+# | Chat application using websockets |
 ### How to use :
 
 #### 1. Install Required packages from console using NPM
@@ -14,7 +14,12 @@
 > node index.js
 ```
 
-#### 4. Type http://localhost:4000/ in your browser to acces the Application
+#### 3. Type http://localhost:4000/ in your browser to acces the Application
 
+.
+.
+.
+.
+.
 
 > For exclusive content https://www.patreon.com/zniti
